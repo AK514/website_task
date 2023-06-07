@@ -1,0 +1,28 @@
+h2{
+    text-align: center;
+}
+.center,td,th {
+    border: 1px solid black;
+    margin: 10px;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+td,th{
+    padding: 1rem;
+    border-spacing: 5px;
+    
+}
+li{
+    line-height:200%;
+    
+}
+th{
+    width: 200px;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+
